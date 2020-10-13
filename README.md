@@ -43,7 +43,7 @@ void main() => runApp(
       ),
     );
 ```
-
+![](1.png)
 > The text widget is used for displaying text and center widget is for aligning the text.
 
 You might observe you will get the code in a single line that can be helped by Reformat code with dartfmt but only when you help him. So after every bracket close add a comma.
